@@ -1,24 +1,44 @@
 # Configure main menu and social menu
-#[[main]]
-#identifier = "home"
-#name = "Home"
-#url = "/"
-#[main.params]
-#icon = "home"
-#newtab = true
+# [[main]]
+# identifier = "home"
+# name = "Home"
+# url = "/"
+# [main.params]
+# icon = "home"
+# newtab = true
+
+[[social]]
+identifier = "facebook"
+name = "Facebook"
+url = "https://www.facebook.com/anderudp"
+weight = 1
+
+[social.params]
+icon = "icons8-facebook"
 
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/anderudp"
+weight = 2
 
 [social.params]
-icon = "brand-github"
+icon = "icons8-octocat"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "linkedin"
+name = "Linkedin"
+url = "https://www.linkedin.com/in/anderudp/"
+weight = 3
 
 [social.params]
-icon = "brand-twitter"
+icon = "icons8-linkedin"
+
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://www.instagram.com/anderudp/"
+weight = 4
+
+[social.params]
+icon = "icons8-instagram"
