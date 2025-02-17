@@ -2,7 +2,7 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "favicon.jpeg"
+favicon = "favicon.png"
 
 [footer]
 since = 2025
@@ -14,7 +14,7 @@ lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
 emoji = "🌞"
-# subtitle = "Ennek a bizonyos Papp Andrisnak van egy rossz szokása hónapokig eltűnni és nem adni életjelet. Na, ez a blog ezt hivatott kiküszöbölni."
+# subtitle = ""
 
 [sidebar.avatar]
 enabled = true
@@ -77,10 +77,10 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqusjs"
+provider = "disqus"
 
 [comments.disqusjs]
-shortname = "anderudp"
+shortname = ""
 apiUrl = ""
 apiKey = ""
 admin = ""
