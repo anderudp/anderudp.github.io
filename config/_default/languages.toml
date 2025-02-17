@@ -3,7 +3,6 @@ languageName = "Magyar"
 languagedirection = "ltr"
 title = "Andris webszelete"
 params.sidebar.subtitle = "Ennek a bizonyos Papp Andrisnak van egy rossz szokása hónapokig eltűnni és nem adni életjelet. Na, ez a blog ezt hivatott kiküszöbölni."
-#menu.main.name = "Asd"
 weight = 1
 
 [ja]
