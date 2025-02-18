@@ -14,7 +14,7 @@ url = "https://www.facebook.com/anderudp"
 weight = 1
 
 [social.params]
-icon = "icons8-facebook"
+icon = "icons8-facebookv3"
 
 [[social]]
 identifier = "github"
@@ -23,7 +23,7 @@ url = "https://github.com/anderudp"
 weight = 2
 
 [social.params]
-icon = "icons8-octocat"
+icon = "icons8-githubv2"
 
 [[social]]
 identifier = "linkedin"
@@ -32,13 +32,22 @@ url = "https://www.linkedin.com/in/anderudp/"
 weight = 3
 
 [social.params]
-icon = "icons8-linkedin"
+icon = "icons8-linkedinv2"
+
+# [[social]]
+# identifier = "wantedly"
+# name = "Wantedly"
+# url = "https://www.linkedin.com/in/anderudp/"
+# weight = 4
+
+# [social.params]
+# icon = "images"
 
 [[social]]
 identifier = "instagram"
 name = "Instagram"
 url = "https://www.instagram.com/anderudp/"
-weight = 4
+weight = 5
 
 [social.params]
 icon = "icons8-instagram"
