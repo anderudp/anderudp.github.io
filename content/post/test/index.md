@@ -4,7 +4,7 @@ description: "This is a test post."
 date: 2025-02-17T23:24:16Z
 image: cover.jpg
 math: false
-license: 
+license.enabled: false
 hidden: false
 comments: true
 draft: false
