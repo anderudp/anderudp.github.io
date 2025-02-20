@@ -67,7 +67,7 @@ Lesznek a kiutazás előtt is azért izgalmak, amikről beszámolok majd itt. Di
 
 Japánul sokféleképp lehet elköszönni. A *szajónara* kifejezést a legtöbben valószínű ismeritek, de manapság annak van egy kényelmetlen, véglegesnek ható utóíze, így azt nem használjuk túl sokat a mindennapokban. Helyette valami olyasmit szoktunk mondani, hogy *dzsaa, mata ne*. Ezt úgy fordítanám, hogy "nos akkor, nemsoká találkozunk". Ez tipikusan egy egyszerű, valós tény. Suliban, munkában, barátokkal lógáskor több mint valószínű, hogy nemsoká újból keresztezik egymást az útjaitok.
 
-Előfordul olyan is viszont, hogy mindkét fél tudja, hogy ez egy jó darabig nem lesz így. Egy amolyan szürke hazugság. Ilyenkor talán azt remélik, hogy a kicsi világ újból összesodorja őket. Vagy egyszerűen nem tudnak vagy akarnak megbírkózni azzal a gondolattal, hogy nem lesznek egymás életében egy igen hosszú ideig, hacsak vagy akár soha többé. Vagy talán csak egy megkérdőjelezetlen társadalmi normáról van szó. Egy amolyan szürke hazugságról. Ezt a részét még nem tudtam a japánok pszichéjének megtörni. Ha egyszer sikerül, majd posztolom ide az eredményeimet. Mindaddig pedig:
+Előfordul olyan is viszont, hogy mindkét fél tudja, hogy ez egy jó darabig nem lesz így. Egy amolyan szürke hazugság. Ilyenkor talán azt remélik, hogy a kicsi világ újból összesodorja őket. Vagy egyszerűen nem tudnak vagy akarnak megbírkózni azzal a gondolattal, hogy nem lesznek egymás életében egy igen hosszú ideig, hacsak nem soha többé. Vagy talán csak egy megkérdőjelezetlen társadalmi normáról van szó. Egy amolyan szürke hazugságról. Ezt a részét még nem tudtam a japánok pszichéjének megfejteni. Ha egyszer sikerül, majd posztolom ide az eredményeimet. Mindaddig pedig:
 
 *Dzsaa, mata ne!*
 
