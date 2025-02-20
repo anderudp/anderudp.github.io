@@ -25,6 +25,7 @@ src = "img/avatar.png"
 headingAnchor = false
 math = false
 readingTime = true
+toc = true
 
 [article.license]
 enabled = false
@@ -46,11 +47,11 @@ type = "categories"
 [widgets.homepage.params]
 limit = 10
 
-# [[widgets.homepage]]
-# type = "tag-cloud"
+[[widgets.homepage]]
+type = "tag-cloud"
 
-# [widgets.homepage.params]
-# limit = 10
+[widgets.homepage.params]
+limit = 10
 
 [[widgets.page]]
 type = "toc"
