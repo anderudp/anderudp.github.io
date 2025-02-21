@@ -3,7 +3,7 @@ title: 自己紹介
 description: 少しだけ自分につきまして説明していただきます
 slug: jikoshokai
 date: 2025-02-20T19:05:30Z
-image: img/cover.jpg
+image: img/cover.png
 math: false
 hidden: false
 comments: false
