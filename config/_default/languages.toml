@@ -9,7 +9,7 @@ weight = 1
 languageName = "日本語"
 languagedirection = "ltr"
 title = "パップ・アンドラーシュ"
-params.sidebar.subtitle = "東北大で研究留学生。ブダペスト・ハンガリー生まれ育ち。興味はロボット工学、CV、グラフィックス。"
+params.sidebar.subtitle = "東北大で研究留学生。ハンガリー・ブダペスト生まれ育ち。興味はロボット工学、CV、グラフィックス。"
 weight = 2
 
 [en]

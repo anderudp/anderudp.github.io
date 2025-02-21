@@ -1,7 +1,7 @@
 ---
 title: Helló, világ!
 description: Felzárkóztató, avagy ezen blog létjogosultsága
-slug: 250220-hello-world
+slug: hello-vilag
 date: 2025-02-20T12:55:12Z
 image: img/cover.jpg
 math: false
@@ -55,7 +55,7 @@ Az első 6 hónapom így a felvételire felkészüléssel fog telni. Legalábbis
 
 Ebben a felkészülési időszakban életemben először kollégiumban fogok lakni. Lesz saját szobám és mosdóm/fürdőm, de a konyha 8 emberrel lesz közös. A lakótársaim másoddiplomások lesznek, várhatóan keverten japánok és külföldiek, leginkább Délkelet-Ázsiából. Betettem egy referenciaképet arról a fajta szobáról, amiben lakni fogok. Ha mázlim van, még a kilátás is ilyen jó lesz.
 
-![UH Sanjo 1 - Itt fogok lakni](img/sanjo-outside.png) ![És ilyen lesz a szobám](img/sanjo.png)
+![UH Sanjo – A koli, ahol az első félévemet tölteni fogom](img/sanjo-outside.png) ![A szobám ilyesmi lesz](img/sanjo.png)
 
 Koliban viszont limitált ideig lehet lakni, ezért ez alatt az időszak alatt egy garzonlakást is kinézek majd. Külföldiként meglesznek az albérlésnek az izgalmai, de az egyetem pont idén vezetett be egy programot a folyamat egyszerűsítésére. De ezen még ráérek aggódni.
 
@@ -67,7 +67,7 @@ Lesznek a kiutazás előtt is azért izgalmak, amikről beszámolok majd itt. Di
 
 Japánul sokféleképp lehet elköszönni. A *szajónara* kifejezést a legtöbben valószínű ismeritek, de manapság annak van egy kényelmetlen, véglegesnek ható utóíze, így azt nem használjuk túl sokat a mindennapokban. Helyette valami olyasmit szoktunk mondani, hogy *dzsaa, mata ne*. Ezt úgy fordítanám, hogy "nos akkor, nemsoká találkozunk". Ez tipikusan egy egyszerű, valós tény. Suliban, munkában, barátokkal lógáskor több mint valószínű, hogy nemsoká újból keresztezik egymást az útjaitok.
 
-Előfordul olyan is viszont, hogy mindkét fél tudja, hogy ez egy jó darabig nem lesz így. Egy amolyan szürke hazugság. Ilyenkor talán azt remélik, hogy a kicsi világ újból összesodorja őket. Vagy egyszerűen nem tudnak vagy akarnak megbírkózni azzal a gondolattal, hogy nem lesznek egymás életében egy igen hosszú ideig, hacsak nem soha többé. Vagy talán csak egy megkérdőjelezetlen társadalmi normáról van szó. Egy amolyan szürke hazugságról. Ezt a részét még nem tudtam a japánok pszichéjének megfejteni. Ha egyszer sikerül, majd posztolom ide az eredményeimet. Mindaddig pedig:
+Előfordul olyan is viszont, hogy mindkét fél tudja, hogy ez egy jó darabig nem lesz így. Ilyenkor talán azt remélik, hogy a kicsi világ újból összesodorja őket. Vagy egyszerűen nem tudnak vagy akarnak megbírkózni azzal a gondolattal, hogy nem lesznek egymás életében egy igen hosszú ideig, hacsak nem soha többé. Vagy talán csak egy megkérdőjelezetlen társadalmi normáról van szó. Egy amolyan szürke hazugságról. Ezt a részét még nem tudtam a japánok pszichéjének megfejteni. Ha egyszer sikerül, majd posztolom ide az eredményeimet. Mindaddig pedig:
 
 *Dzsaa, mata ne!*
 
