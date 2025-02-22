@@ -47,7 +47,7 @@ Tohoku University, Tadokoro Laboratory – Sendai, Japan
 
 ## PROJECTS
 
-**Surgical subtask automation on the daVinci Surgical System in ROS**
+**Surgical subtask automation on the daVinci Surgical System in ROS**\
 *Bachelor’s thesis*
 
 - Contributing to my university’s cybersurgery framework.
@@ -56,7 +56,7 @@ Tohoku University, Tadokoro Laboratory – Sendai, Japan
 - Reduce difficulty of deprojection caused by tool and environment specularity as well as - marker pattern occlusion.
 - Testing and validating the solution on soft tissue phantoms.
 
-**Building a four-wheel drive robot car with a 4 DoF arm and gripper**
+**Building a four-wheel drive robot car with a 4 DoF arm and gripper**\
 *Personal project*
 
 - Using independently operable DC motors on each wheel, turning via skid steering.
