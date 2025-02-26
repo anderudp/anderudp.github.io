@@ -1,6 +1,6 @@
 ---
 title: 自己紹介
-description: 少しだけ自分につきまして説明していただきます
+description: 少しだけ自分につきまして説明させていただきます
 slug: jikoshokai
 date: 2025-02-20T19:05:30Z
 image: img/cover.png
