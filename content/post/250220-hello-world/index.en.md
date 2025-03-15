@@ -11,17 +11,17 @@ categories:
     - misc
 ---
 
-## LANGUAGES
+## Languages
 
 - **Hungarian:** Native
 - **English:** Proficient
 - **Japanese:** Conversational
 
-## OBJECTIVE
+## Objective
 
 Computer engineering undergraduate aspiring to continue my education while researching automated systems designed for the betterment of human quality of life with a specific interest in developing innovative search and rescue solutions. Eager to join a laboratory of like-minded individuals and put my pre-existing skill set to the test while continuing to expand it.
 
-## EDUCATION
+## Education
 
 [2020/09—2025/02]\
 **Bachelor of Science in Computer Engineering**\
@@ -38,14 +38,14 @@ Tohoku University, Tadokoro Laboratory – Sendai, Japan
 - Researching Tough Robotics and AI
 - Studying for the entrance exam to the Applied Information Sciences course at the GSIS
 
-## SKILLS AND INTERESTS
+## Skills and Interests
 
 **Skills:** Machine Learning, Control Systems, Signal Processing, Embedded Systems\
 **Interests:** Computer Vision, 3D Simulation, CAD modeling, FOSS\
 **Frameworks:** PlatformIO, ESP-NOW, OpenCV, Keras, ROS, Unity\
 **Platforms:** GNU/Linux, C++, C#, Python
 
-## PROJECTS
+## Projects
 
 **Surgical subtask automation on the daVinci Surgical System in ROS**\
 *Bachelor’s thesis*
@@ -63,7 +63,7 @@ Tohoku University, Tadokoro Laboratory – Sendai, Japan
 - Adding advanced vision capabilities with a webcam connected to a Raspberry Pi communicating with a PC over Wi-Fi for CUDA-enhanced image processing.
 - Aiming to create a robot that can automatically collect small, scattered objects in a bounded space.
 
-## EXTRACURRICULAR ACTIVITIES
+## Extracurricular activities
 
 - [2021/03—2025/03]\
 **Educating teenagers on programming at Logiscool Ltd.**
