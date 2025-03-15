@@ -1,6 +1,6 @@
 ---
 title: Nürnbergi tanulmányút
-description: Embedded World kiállítás, városnézés és gasztrokalandok (és SÖR!!)
+description: Embedded World kiállítás, városnézés, gasztrokalandok és SÖR!!
 slug: nurnbergi-tanulmanyut
 date: 2025-03-15T14:55:19Z
 image: img/cover.jpg
