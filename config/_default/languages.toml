@@ -9,12 +9,12 @@ weight = 1
 languageName = "日本語"
 languagedirection = "ltr"
 title = "パップ・アンドラーシュ"
-params.sidebar.subtitle = "東北大で研究留学生。ハンガリー・ブダペスト生まれ育ち。興味はロボット工学、CV、グラフィックス。市電に熱中。"
+params.sidebar.subtitle = "東北大で研究留学生。ハンガリー・ブダペスト生まれ育ち。興味はロボット工学、CV、グラフィックス。"
 weight = 2
 
 [en]
 languageName = "English"
 languagedirection = "ltr"
 title = "András D. Papp"
-params.sidebar.subtitle = "Research student at Tohoku University, born and raised in Budapest, Hungary. Interests include robotics, computer vision and CG. Tram enthusiast."
+params.sidebar.subtitle = "Research student at Tohoku University, born and raised in Budapest, Hungary. Interests include robotics, computer vision and CG.."
 weight = 3
