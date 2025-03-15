@@ -106,7 +106,7 @@ HETEROGÉNSÉG!
 
 ami nélkül szerintem egy milkshake sem az igazi. Ezután pedig vettünk pár sört és pattanásig teli hassal valahogy felmásztunk a szállásra. A srácok 9-edik emeleti szobájában jól eldumáltunk, ittunk egy pár órát. Így utólag belegondolva ezzel tudtam kicsit pótolni a gólyatábort, ami nekem a COVID miatt kimaradt. Aztán pedig, az utolsó napra felkészülve, lementem egy emeletet, és kidőltem aludni.
 
-![Felfaltuk az éttermet; avagy a 4v5 még nyerhető](img/five-guys.jpg) ![Éjszakai kilátás a Császári Palota kilencedik eleméről. Élőben azért mégis nagyobbnak tűnt](img/950.jpg)
+![Felfaltuk az éttermet; avagy a 4v5 még nyerhető](img/five-guys.jpg) ![Éjszakai kilátás a Császári Palota kilencedik emeletéről. Élőben azért mégis nagyobbnak tűnt](img/950.jpg)
 
 ## Kalandok egy italdiszkont nyomában
 
@@ -120,7 +120,7 @@ A villamoshoz sétálva hallottunk elég nagy fennforgást. Megafonokon ordibál
 
 ![Még Almdudlert is osztottak, de így sem volt időnk beszállni](img/strike.jpg)
 
-Mentünk is tovább az italdiszkontba. Kiderült, hogy Andrással mi már ismertük egymást, mert ő is oktatott egy rövid ideig a kispesti Logiscoolban, és vállalati bulin már futottunk össze. Igazándiból nagyon nem ismertem nagyon a többieket a túrán, mert egyrészt diplomásként idősebb is voltam, másrészt ők a Villamosmérnőki Karról jöttek javarészt. De nem mintha nagy akadály lett volna, két sör után már a mérnök az mérnök az mérnök. Viszont azért mégis meglepett, hogy milyen kicsi a világ, hogy ennyire véletlen helyen egy ex-kollégába belefussak. Egyre többször fedezem fel, hogy a hasonló emberek mennyire könnyen egymás vonzáskörzetébe tudnak esni tudtuk nélkül. Remélem ez a tendencia követni fog még egy darabig, mert jó hasznát venném.
+Mentünk is tovább az italdiszkontba. Kiderült, hogy Andrással mi már ismertük egymást, mert ő is oktatott egy rövid ideig a kispesti Logiscoolban, és vállalati bulin már futottunk össze. Igazándiból nem ismertem nagyon a többieket a túrán, mert egyrészt diplomásként idősebb is voltam, másrészt ők a Villamosmérnőki Karról jöttek javarészt. De nem mintha nagy akadály lett volna, két sör után már a mérnök az mérnök az mérnök. Viszont azért mégis meglepett, hogy milyen kicsi a világ, hogy ennyire véletlen helyen egy ex-kollégába belefussak. Egyre többször fedezem fel, hogy a hasonló emberek mennyire könnyen egymás vonzáskörzetébe tudnak esni tudtuk nélkül. Remélem ez a tendencia követni fog még egy darabig, mert jó hasznát venném.
 
 ![A szerény német italdiszkont. Bármit leemelhetsz, és nagyon csúnyán nem tudsz melléfogni. Legfeljebb az ízléseden kívülről fogsz meg egy oké sört](img/beer-store.jpg)
 
