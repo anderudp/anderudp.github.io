@@ -2,7 +2,7 @@
 title: "Úticél: Az Ismeretlen"
 description: "Kiköltözés Japánba (1/3)"
 slug: uticel-az-ismeretlen
-date: 2025-05-08T14:55:19Z
+date: 2025-05-09T18:43:22Z
 image: img/cover.jpg
 math: true
 hidden: false
