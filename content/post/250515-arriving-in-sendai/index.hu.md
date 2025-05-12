@@ -1,7 +1,7 @@
 ---
-title: "Úticél: Az Ismeretlen"
-description: "Kiköltözés Japánba (1/3)"
-slug: asdaqdaf
+title: "Egy hónap Szendaiban"
+description: "Kiköltözés Japánba (2/3)"
+slug: egy-honap-szendaiban
 date: 2025-05-08T14:55:19Z
 image: img/cover.jpg
 math: true
