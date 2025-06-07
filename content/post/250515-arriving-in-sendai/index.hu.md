@@ -5,9 +5,9 @@ slug: az-erdok-es-pokemonok-varosa
 date: 2025-05-08T14:55:19Z
 image: img/cover.jpg
 math: true
-hidden: false
+hidden: true
 comments: true
-draft: false
+draft: true
 categories:
     - life
     - travel
