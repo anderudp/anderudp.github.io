@@ -2,7 +2,7 @@
 title: "Az erdők és Pokemonok városa"
 description: "Kiköltözés Japánba (2/3)"
 slug: az-erdok-es-pokemonok-varosa
-date: 2025-05-08T14:55:19Z
+date: 2025-06-08T14:55:19Z
 image: img/cover.jpg
 math: true
 hidden: true
