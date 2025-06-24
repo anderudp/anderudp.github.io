@@ -2,7 +2,7 @@
 title: "Három hónap Szendaiban"
 description: "Kiköltözés Japánba (2/3)"
 slug: harom-honap-szendaiban
-date: 2025-06-24T07:52:57+00:00
+date: 2025-06-24T09:38:54+00:00
 image: img/cover.jpg
 math: true
 hidden: false
