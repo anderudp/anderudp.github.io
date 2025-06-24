@@ -2,7 +2,7 @@
 title: "Miért épp Japán?"
 description: "Kiköltözés Japánba (3/3)"
 slug: draft-lololo
-date: 2025-05-08T14:55:19Z
+date: 2030-06-24T10:15:47+00:00
 image: img/cover.jpg
 math: true
 hidden: true
