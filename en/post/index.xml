@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on András D. Papp</title><link>https://anderudp.github.io/en/post/</link><description>Recent content in Posts on András D. Papp</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 21 Feb 2025 14:44:03 +0000</lastBuildDate><atom:link href="https://anderudp.github.io/en/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Resumé – András D. Papp</title><link>https://anderudp.github.io/en/p/cv/</link><pubDate>Fri, 21 Feb 2025 14:44:03 +0000</pubDate><guid>https://anderudp.github.io/en/p/cv/</guid><description>&lt;img src="https://anderudp.github.io/p/hello-vilag/img/cover_en.png" alt="Featured image of post Resumé – András D. Papp" />&lt;h2 id="languages">Languages
+&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Hungarian:&lt;/strong> Native&lt;/li>
+&lt;li>&lt;strong>English:&lt;/strong> Proficient&lt;/li>
+&lt;li>&lt;strong>Japanese:&lt;/strong> Conversational&lt;/li>
+&lt;/ul>
+&lt;h2 id="objective">Objective
+&lt;/h2>&lt;p>Computer engineering undergraduate aspiring to continue my education while researching automated systems designed for the betterment of human quality of life with a specific interest in developing innovative search and rescue solutions. Eager to join a laboratory of like-minded individuals and put my pre-existing skill set to the test while continuing to expand it.&lt;/p>
+&lt;h2 id="education">Education
+&lt;/h2>&lt;p>[2020/09—2025/02]&lt;br>
+&lt;strong>Bachelor of Science in Computer Engineering&lt;/strong>&lt;br>
+Óbuda University – Budapest, Hungary&lt;/p>
+&lt;ul>
+&lt;li>Producing maintainable code&lt;/li>
+&lt;li>Understanding and applying artificial intelligence techniques&lt;/li>
+&lt;li>Image processing, control theory, robot kinematics&lt;/li>
+&lt;/ul>
+&lt;p>[2025/04—]&lt;br>
+&lt;strong>Research student&lt;/strong>&lt;br>
+Tohoku University, Tadokoro Laboratory – Sendai, Japan&lt;/p>
+&lt;ul>
+&lt;li>Researching Tough Robotics and AI&lt;/li>
+&lt;li>Studying for the entrance exam to the Applied Information Sciences course at the GSIS&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-and-interests">Skills and Interests
+&lt;/h2>&lt;p>&lt;strong>Skills:&lt;/strong> Machine Learning, Control Systems, Signal Processing, Embedded Systems&lt;br>
+&lt;strong>Interests:&lt;/strong> Computer Vision, 3D Simulation, CAD modeling, FOSS&lt;br>
+&lt;strong>Frameworks:&lt;/strong> PlatformIO, ESP-NOW, OpenCV, Keras, ROS, Unity&lt;br>
+&lt;strong>Platforms:&lt;/strong> GNU/Linux, C++, C#, Python&lt;/p>
+&lt;h2 id="projects">Projects
+&lt;/h2>&lt;p>&lt;strong>Surgical subtask automation on the daVinci Surgical System in ROS&lt;/strong>&lt;br>
+&lt;em>Bachelor’s thesis&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Contributing to my university’s cybersurgery framework.&lt;/li>
+&lt;li>Aiming to reduce the cognitive load on surgeons by automating repetitive, tedious subtasks.&lt;/li>
+&lt;li>Enhancing the robot’s hand-eye coordination by applying a novel tool marker.&lt;/li>
+&lt;li>Reduce difficulty of deprojection caused by tool and environment specularity as well as - marker pattern occlusion.&lt;/li>
+&lt;li>Testing and validating the solution on soft tissue phantoms.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Building a four-wheel drive robot car with a 4 DoF arm and gripper&lt;/strong>&lt;br>
+&lt;em>Personal project&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Using independently operable DC motors on each wheel, turning via skid steering.&lt;/li>
+&lt;li>Adding advanced vision capabilities with a webcam connected to a Raspberry Pi communicating with a PC over Wi-Fi for CUDA-enhanced image processing.&lt;/li>
+&lt;li>Aiming to create a robot that can automatically collect small, scattered objects in a bounded space.&lt;/li>
+&lt;/ul>
+&lt;h2 id="extracurricular-activities">Extracurricular activities
+&lt;/h2>&lt;ul>
+&lt;li>[2021/03—2025/03]&lt;br>
+&lt;strong>Educating teenagers on programming at Logiscool Ltd.&lt;/strong>&lt;/li>
+&lt;li>[2022/01—]&lt;br>
+&lt;strong>Developing simple 2D and 3D games in Unity&lt;/strong>&lt;/li>
+&lt;li>[2024/03]&lt;br>
+&lt;strong>Attended a joint robotics internship program with the Shibaura Institute of Technology&lt;/strong>&lt;/li>
+&lt;/ul></description></item></channel></rss>
