@@ -10,7 +10,6 @@ comments: true
 draft: false
 categories:
     - life
-    - travel
 tags:
     - Japán
     - Szendai
