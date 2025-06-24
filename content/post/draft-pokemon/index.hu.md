@@ -1,3 +1,21 @@
+---
+title: "Miért épp Japán?"
+description: "Kiköltözés Japánba (3/3)"
+slug: draft-xayxax
+date: 2025-05-08T14:55:19Z
+image: img/cover.jpg
+math: true
+hidden: true
+comments: true
+draft: true
+categories:
+    - life
+    - travel
+tags:
+    - Japán
+    - Szendai
+---
+
 ## Andris invarianciája a Lapras-transzformáció alatt
 
 Az előző posztot amikor kiraktam múlt hónapban, megváltoztattam az indexképet is. Az új képen épp nagyon vigyorgok egy plüssel a kezemben. Az a plüss kérlek szépen benneteket egy _Lapras_, ami egy bizonyos fajta _Pokemon_. Ez a legtöbbőtöknek teljesen, vagy legalább nagy vonalakban tiszta, mit jelent. Viszont mivel a nagymamáim is olvassák ezeket az írományokat, ezért érdemel a dolog egy kis magyarázatot. Plusz ad nekem is egy lehetőséget kifejteni, én speciel mit eszek annyira ezekben az izékben.
