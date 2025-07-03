@@ -11,6 +11,7 @@ draft: false
 categories:
     - life
 tags:
+    - Magyarország
     - Budapest
 ---
 

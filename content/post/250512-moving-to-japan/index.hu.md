@@ -13,6 +13,7 @@ categories:
     - travel
 tags:
     - Japán
+    - Mijagi
     - Szendai
 ---
 

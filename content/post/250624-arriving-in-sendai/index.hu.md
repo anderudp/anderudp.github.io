@@ -12,6 +12,7 @@ categories:
     - life
 tags:
     - Japán
+    - Mijagi
     - Szendai
 ---
 
