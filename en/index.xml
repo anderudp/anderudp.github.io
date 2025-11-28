@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>András D. Papp</title><link>https://anderudp.github.io/en/</link><description>Recent content on András D. Papp</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 21 Feb 2025 14:44:03 +0000</lastBuildDate><atom:link href="https://anderudp.github.io/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Resumé – András D. Papp</title><link>https://anderudp.github.io/en/p/cv/</link><pubDate>Fri, 21 Feb 2025 14:44:03 +0000</pubDate><guid>https://anderudp.github.io/en/p/cv/</guid><description>&lt;img src="https://anderudp.github.io/p/hello-vilag/img/cover_en.png" alt="Featured image of post Resumé – András D. Papp" /&gt;&lt;h2 id="languages"&gt;Languages
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hungarian:&lt;/strong&gt; Native&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;English:&lt;/strong&gt; Proficient&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Japanese:&lt;/strong&gt; Conversational&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="objective"&gt;Objective
+&lt;/h2&gt;&lt;p&gt;Computer engineering undergraduate aspiring to continue my education while researching automated systems designed for the betterment of human quality of life with a specific interest in developing innovative search and rescue solutions. Eager to join a laboratory of like-minded individuals and put my pre-existing skill set to the test while continuing to expand it.&lt;/p&gt;
+&lt;h2 id="education"&gt;Education
+&lt;/h2&gt;&lt;p&gt;[2020/09—2025/02]&lt;br&gt;
+&lt;strong&gt;Bachelor of Science in Computer Engineering&lt;/strong&gt;&lt;br&gt;
+Óbuda University – Budapest, Hungary&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Producing maintainable code&lt;/li&gt;
+&lt;li&gt;Understanding and applying artificial intelligence techniques&lt;/li&gt;
+&lt;li&gt;Image processing, control theory, robot kinematics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[2025/04—]&lt;br&gt;
+&lt;strong&gt;Research student&lt;/strong&gt;&lt;br&gt;
+Tohoku University, Tadokoro Laboratory – Sendai, Japan&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Researching Tough Robotics and AI&lt;/li&gt;
+&lt;li&gt;Studying for the entrance exam to the Applied Information Sciences course at the GSIS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="skills-and-interests"&gt;Skills and Interests
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Skills:&lt;/strong&gt; Machine Learning, Control Systems, Signal Processing, Embedded Systems&lt;br&gt;
+&lt;strong&gt;Interests:&lt;/strong&gt; Computer Vision, 3D Simulation, CAD modeling, FOSS&lt;br&gt;
+&lt;strong&gt;Frameworks:&lt;/strong&gt; PlatformIO, ESP-NOW, OpenCV, Keras, ROS, Unity&lt;br&gt;
+&lt;strong&gt;Platforms:&lt;/strong&gt; GNU/Linux, C++, C#, Python&lt;/p&gt;
+&lt;h2 id="projects"&gt;Projects
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Surgical subtask automation on the daVinci Surgical System in ROS&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Bachelor’s thesis&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Contributing to my university’s cybersurgery framework.&lt;/li&gt;
+&lt;li&gt;Aiming to reduce the cognitive load on surgeons by automating repetitive, tedious subtasks.&lt;/li&gt;
+&lt;li&gt;Enhancing the robot’s hand-eye coordination by applying a novel tool marker.&lt;/li&gt;
+&lt;li&gt;Reduce difficulty of deprojection caused by tool and environment specularity as well as - marker pattern occlusion.&lt;/li&gt;
+&lt;li&gt;Testing and validating the solution on soft tissue phantoms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Building a four-wheel drive robot car with a 4 DoF arm and gripper&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Personal project&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Using independently operable DC motors on each wheel, turning via skid steering.&lt;/li&gt;
+&lt;li&gt;Adding advanced vision capabilities with a webcam connected to a Raspberry Pi communicating with a PC over Wi-Fi for CUDA-enhanced image processing.&lt;/li&gt;
+&lt;li&gt;Aiming to create a robot that can automatically collect small, scattered objects in a bounded space.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="extracurricular-activities"&gt;Extracurricular activities
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[2021/03—2025/03]&lt;br&gt;
+&lt;strong&gt;Educating teenagers on programming at Logiscool Ltd.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;[2022/01—]&lt;br&gt;
+&lt;strong&gt;Developing simple 2D and 3D games in Unity&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;[2024/03]&lt;br&gt;
+&lt;strong&gt;Attended a joint robotics internship program with the Shibaura Institute of Technology&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title/><link>https://anderudp.github.io/en/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anderudp.github.io/en/</guid><description>&lt;!-- ---
+title: Links
+links:
+- title: GitHub
+description: GitHub is the world's largest software development platform.
+website: https://github.com
+image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+menu:
+main:
+weight: 4
+params:
+icon: link
+comments: false
+---
+To use this feature, add `links` section to frontmatter.
+This page's frontmatter:
+```yaml
+links:
+- title: GitHub
+description: GitHub is the world's largest software development platform.
+website: https://github.com
+image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+- title: TypeScript
+description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+website: https://www.typescriptlang.org
+image: ts-logo-128.jpg
+```
+`image` field accepts both local and external images. --&gt;</description></item><item><title>Archives</title><link>https://anderudp.github.io/en/archives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anderudp.github.io/en/archives/</guid><description/></item><item><title>Search</title><link>https://anderudp.github.io/en/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anderudp.github.io/en/search/</guid><description/></item></channel></rss>

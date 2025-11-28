@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on パップ・アンドラーシュ</title><link>https://anderudp.github.io/ja/page/</link><description>Recent content in Pages on パップ・アンドラーシュ</description><generator>Hugo -- gohugo.io</generator><language>ja</language><atom:link href="https://anderudp.github.io/ja/page/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://anderudp.github.io/ja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anderudp.github.io/ja/</guid><description>&lt;!-- ---
+title: リンク
+links:
+- title: GitHub
+description: GitHub is the world's largest software development platform.
+website: https://github.com
+image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+menu:
+main:
+weight: 4
+params:
+icon: link
+comments: false
+---
+To use this feature, add `links` section to frontmatter.
+This page's frontmatter:
+```yaml
+links:
+- title: GitHub
+description: GitHub is the world's largest software development platform.
+website: https://github.com
+image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+- title: TypeScript
+description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+website: https://www.typescriptlang.org
+image: ts-logo-128.jpg
+```
+`image` field accepts both local and external images. --&gt;</description></item><item><title>アーカイブ</title><link>https://anderudp.github.io/ja/archives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anderudp.github.io/ja/archives/</guid><description/></item><item><title>検索</title><link>https://anderudp.github.io/ja/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anderudp.github.io/ja/search/</guid><description/></item></channel></rss>
