@@ -1,3 +1,24 @@
-/*
-    You can add your own custom styles here.
-*/
+img {
+  border-radius: 15px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+details {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+details img {
+  border-radius: 25px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+html[data-scheme="light"] details {
+  background-color: #e4eaef;
+}
+
+html[data-scheme="dark"] details {
+  background-color: #323335;
+}
