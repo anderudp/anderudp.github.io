@@ -105,13 +105,13 @@ Ezekről annyit érdemes tudni, hogy még mielőtt kiutaztam, kaptam egy csomag 
 
 ![Néhány példa ezekre. Őszinte leszek, a Sikoly-maszkosat még mindig nem nyitottam fel, mert kifejezetten nem erősségem a horrorfilmek, és félek, hogy muszáj lenne egyet megnéznem. Bár most elvileg pont jó a Backrooms-film, lehet megérett az ideje...](img/letters.jpg)
 
-Emellett voltak még bennük közös fényképek, amik erősen tartották bennem a lelket, főleg az ittlétem elején. Nem egyszer jöttem haza eleinte úgy, hogy senkihez egy érdemre való szót nem szóltam, és olyankor az egy konzisztens kapaszkodóm ezek a falra kitűzött képek voltak. Az albérletem falára is kirögzítettem őket a költözés után, és azóta is minden este szembe találom magamat velük. Szerencsére viszont már nem rajzszöggel vannak felfüggesztve. Loptam egy jelentősen esztétikusabb ötletet unokanővéremék esküvőjéről tavaly Szeptemberben.
+Emellett voltak még bennük közös fényképek, amik erősen tartották bennem a lelket, főleg az ittlétem elején. Nem egyszer jöttem haza eleinte úgy, hogy senkihez egy érdemre való szót nem szóltam, és olyankor az egy konzisztens kapaszkodóm ezek a falra kitűzött képek voltak. Az albérletem falára is kirögzítettem őket a költözés után, és azóta is minden este szembe találom magamat velük. Szerencsére viszont már nem rajzszöggel vannak felfüggesztve. Loptam egy jelentősen esztétikusabb ötletet unokanővéremék esküvőjéről tavaly szeptemberben.
 
 ![Girland és facsipesz. Kicsit sűrűbbre sikerült, mint vártam, de legalább a képkeretek árát meg tudtam spórolni](img/pics.jpg)
 
 ## Társaságok
 
-Nagyon más mostmár az ittlét. Van egykét kifejezetten stabil baráti köröm, akikkel rendszeresen eljárunk éttermezni, karaokézni, fürdőzni, kirándulni, időnkét nálam filmezni... Laborban is egyre inkább azt érzem, be vagyok vonva a programokba. Péntek esténként egész rendszeresen szoktunk dobni egy kajálós-filmezős, időnként társasozós banzájt. Van amikor rendelünk csirkét, van hogy főzünk rizst, hozunk tengeri herkentyűket, oszt mindenki összerak magának tetszőleges sushit. Következőnek majd egy pókerpartit próbálok összeverbuválni, de nem tudom mennyire lesznek vevők rá a többiek. Egy próbát viszont mindenképp megér.
+Nagyon más mostmár az ittlét. Van egy-két kifejezetten stabil baráti köröm, akikkel rendszeresen eljárunk éttermezni, karaokézni, fürdőzni, kirándulni, időnkét nálam filmezni... Laborban is egyre inkább azt érzem, be vagyok vonva a programokba. Péntek esténként egész rendszeresen szoktunk dobni egy kajálós-filmezős, időnként társasozós banzájt. Van amikor rendelünk csirkét, van hogy főzünk rizst, hozunk tengeri herkentyűket, oszt mindenki összerak magának tetszőleges sushit. Következőnek majd egy pókerpartit próbálok összeverbuválni, de nem tudom mennyire lesznek vevők rá a többiek. Egy próbát viszont mindenképp megér.
 
 ![Karácsonyi buli nálam. Rántott csirke és társas verhetetlen kombináció](img/krismass.jpg)
 
@@ -129,7 +129,7 @@ Hiányzik anyámmal a 6 négyzetméteres konyhában az éneklés közben párhuz
 
 Hiányzik apámmal a legrandomabb helyeken nyaralások és a spontán összehívott esti szomszédsági pókerezések. Még ha ott is megvoltak a nehézségek.
 
-Nagymamámmal a fürdőzések. Unokabátyámékkal az egész napos társasozások. Nagybátyámmal a mindenféle fura cseh és német sör végigkóstolása. Nagynénéméknél a meszámlálhatatlan nassolnivalóból szemezgetés. Barátaimmal az évi Pride vonulás a kiállhatatlan dögmelegben, és az univerzum leglucskosabb Sloppy Joe szendvicsét kilónyi jalapenoval megpakolt bezabálása közbeni kártyajátékozás. A Bajcsi Pointerben vagy a Cosmoban a legutóbb megnézett animéink kibeszéléséből a szociálpolitikai diskurzuson keresztül az egymást sírva-ölelve a legnehezebben kimondható gondolataink megosztásába fulladó hosszú éjszakák.
+Nagymamámmal a fürdőzések. Unokabátyámékkal az egész napos társasozások. Nagybátyámmal a mindenféle fura cseh és német sör végigkóstolása. Nagynénéméknél a megszámlálhatatlan nassolnivalóból szemezgetés. Barátaimmal az évi Pride vonulás a kiállhatatlan dögmelegben, és az univerzum leglucskosabb Sloppy Joe szendvicsét kilónyi jalapenoval megpakolt bezabálása közbeni kártyajátékozás. A Bajcsi Pointerben vagy a Cosmoban a legutóbb megnézett animéink kibeszéléséből a szociálpolitikai diskurzuson keresztül az egymást sírva-ölelve a legnehezebben kimondható gondolataink megosztásába fulladó hosszú éjszakák.
 
 Magyarország őszintén baromira nem hiányzik. De Ti nagyon hiányoztok.
 
@@ -139,7 +139,7 @@ Ja meg amúgy a frissen sült pékárúk. Itt minden ilyen albán stílusú felf
 
 ## Konklúzió: Megérte?
 
-Meg. Nagyon élvezem alapjáraton a mindennapokat most, hogy elmúlt az a cefet kínos egy év felvételi időszak. Érzem, hogy meg van becsülve itt a jelenlétem mind szakmai, mind személyi szempontból. Rendszeresen van társaságom szabadidőmben, és el tudom foglalni magam akkor is amikor épp nincs. Nyilván még egy élettárs, meg egy kocsi, meg egy kávézós terasz nem ártana, de szép fokozatosan dolgozom rajta. *Jó lesz ez.*
+Meg. Nagyon élvezem alapjáraton a mindennapokat most, hogy elmúlt az a mocsok kínos egy év felvételi időszak. Érzem, hogy meg van becsülve itt a jelenlétem mind szakmai, mind személyi szempontból. Rendszeresen van társaságom szabadidőmben, és el tudom foglalni magam akkor is amikor épp nincs. Nyilván még egy élettárs, meg egy kocsi, meg egy kávézós terasz nem ártana, de szép fokozatosan dolgozom rajta. *Jó lesz ez.*
 
 ![Karácsonyi díszítés a Dzsózendzsi úton, ez kb. Szendai Andrássy-ja](img/pageant.jpg) ![Újévi dekor a Hacsiman-szentélyben](img/hachimangu.jpg)
 
